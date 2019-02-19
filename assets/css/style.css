@@ -1,0 +1,13 @@
+.table-program{
+	margin-left:15px;margin-top:-28px;width:410px;
+}
+.form-table-program{
+	width:199px;height:38px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border:1px solid #CCCCCC;padding:10px;
+}
+#judul{
+	margin-top:10px;margin-bottom:-10px;
+}
+.print-area{
+	padding:1em;margin:0 0 1em
+}
+/*.border{border: 1px solid #000;}*/
